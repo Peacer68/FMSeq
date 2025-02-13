@@ -1,0 +1,8 @@
+__pycache__
+/datasets/*
+*debug*
+diffusion_models/*
+generation_outputs/*
+srun_logs/*
+wandb/*
+/scripts/*.slurm
